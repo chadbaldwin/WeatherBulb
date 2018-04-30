@@ -9,9 +9,9 @@ Basically it works like this:
 Pulls weather forecast data for the next 12 hours (by the hour) using the AccuWeather API for a specific City.
 
 Using AccuWeathers Icon descriptions, the 12 hours are grouped/filtered into 3 categories:
-Bad - Rain, Sleet, Snow, Ice, Hail
-Hot - >80*F
-Cold - <50*F
+- Bad - Rain, Sleet, Snow, Ice, Hail
+- Hot - >80F
+- Cold - <50F
 
 Bad weather shows the bulb as purple
 Hot weather uses an exponential curve to set the color between yellow and red
