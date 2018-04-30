@@ -22,3 +22,4 @@ Future goals:
 - Figure out a more fluid way to set the colors for hot/cold/nice weather
 - Make the temp ranges configurable
 - Add support for multiple cities
+- Add 
