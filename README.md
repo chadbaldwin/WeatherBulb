@@ -14,8 +14,11 @@ Using AccuWeathers Icon descriptions, the 12 hours are grouped/filtered into 3 c
 - Cold - <50F
 
 Bad weather shows the bulb as purple
+
 Hot weather uses an exponential curve to set the color between yellow and red
+
 Cold weather shows as blue
+
 Nice (else case) shows as warm white
 
 Future goals:
