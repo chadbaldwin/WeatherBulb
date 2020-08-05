@@ -13,13 +13,13 @@ Using AccuWeathers Icon descriptions, the 12 hours are grouped/filtered into 3 c
 - Hot - >80F
 - Cold - <50F
 
-Bad weather shows the bulb as purple
-Hot weather uses an exponential curve to set the color between yellow and red
-Cold weather shows as blue
-Nice (else case) shows as warm white
+Displayed colors:
+- Bad weather shows the bulb as purple
+- Hot weather uses an exponential curve to set the color between yellow and red
+- Cold weather shows as blue
+- Nice (else case) shows as warm white
 
 Future goals:
 - Figure out a more fluid way to set the colors for hot/cold/nice weather
 - Make the temp ranges configurable
 - Add support for multiple cities
-- Add 
